@@ -30,7 +30,6 @@ disk: 2048
 relationships:
   postgresql: 'postgresql:postgresql'
 
-
 web:
   commands:
     start: "node main.js"
